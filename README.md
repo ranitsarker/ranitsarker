@@ -13,6 +13,9 @@
 ### Current Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ranitsarker&theme=chartreuse_dark)
 
+### Trends
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ranitsarker/langs?time_range=six_months&theme=dark)](https://githubtrends.io)
+
 ### Summary
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranitsarker&theme=chartreuse_dark)
 
