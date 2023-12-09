@@ -8,3 +8,5 @@
 
 ### Summary
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ranitsarker&theme=default)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ranitsarker/langs)](https://githubtrends.io)
