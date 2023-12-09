@@ -6,7 +6,7 @@
   </a>
   
 ### Skills
-  <a href="">
+  <a href="https://github.com/ranitsarker">
     <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,nextjs,expressjs,tailwind,js,html,css,firebase&perline=5" />
   </a>
   
