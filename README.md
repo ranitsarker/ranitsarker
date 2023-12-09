@@ -6,6 +6,8 @@ I love turning ideas into user-friendly websites. I'm a Full Stack Developer, bl
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,nextjs,expressjs,tailwind,js,html,css,firebase&perline=5)](https://skillicons.dev)
 
-### Summary
+### Current Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ranitsarker&theme=default)
 
+### Summary
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ranitsarker&theme=default)
