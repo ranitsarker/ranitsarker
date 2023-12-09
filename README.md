@@ -10,4 +10,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranitsarker&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ranitsarker&theme=default)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ranitsarker/langs)](https://githubtrends.io)
+### Trends
+[[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ranitsarker/langs)](https://githubtrends.io)](https://api.githubtrends.io/user/svg/ranitsarker/langs?time_range=six_months&theme=dark)
+
+
