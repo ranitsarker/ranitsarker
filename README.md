@@ -11,7 +11,7 @@
   </a>
   
 ### Current Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ranitsarker&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ranitsarker&theme=chartreuse_dark)
 
 ### Summary
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranitsarker&theme=chartreuse_dark)
