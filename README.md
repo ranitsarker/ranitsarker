@@ -6,7 +6,10 @@
   </a>
   
 ### Skills
-(https://skillicons.dev/icons?i=react,nodejs,mongodb,nextjs,expressjs,tailwind,js,html,css,firebase&perline=5)
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,nextjs,expressjs,tailwind,js,html,css,firebase&perline=5" />
+  </a>
+  
 ### Summary
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranitsarker&theme=chartreuse_dark)
 
