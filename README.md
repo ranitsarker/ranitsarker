@@ -10,6 +10,9 @@
     <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,nextjs,expressjs,tailwind,js,html,css,firebase&perline=5" />
   </a>
   
+### Current Stats
+![](https://raw.githubusercontent.com/ranitsarker/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/3-stats.svg)
+
 ### Summary
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranitsarker&theme=chartreuse_dark)
 
