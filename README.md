@@ -1,5 +1,5 @@
 ![Full Stack Developer | React, Node.js, MongoDB | Crafting innovative web solutions.](https://raw.githubusercontent.com/ranitsarker/ranitsarker/main/gitbanner.png)
-#### Experienced Full Stack Developer specializing in building cutting-edge web solutions. Proficient in React, Next.js, Node.js, Express, and MongoDB, with a focus on creating seamless, performant applications for exceptional user experiences.
+#### Experienced Full Stack Developer specializing in building cutting-edge web solutions. Proficient in React, Next.js, Node.js, Express, and MongoDB, with a focus on creating seamless, performant applications for exceptional user experiences. My vision is to use technology to connect and simplify the world, making a positive impact.
 ### Social
   <a href="https://www.linkedin.com/in/ranit-sarker-586074b4/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
