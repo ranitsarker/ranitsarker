@@ -4,7 +4,6 @@
   <a href="https://www.linkedin.com/in/ranit-sarker-586074b4/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-[![My Socials](https://skillicons.dev/icons?i=linkedin&perline=5)](https://skillicons.dev)
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,nextjs,expressjs,tailwind,js,html,css,firebase&perline=5)](https://skillicons.dev)
 ### Summary
